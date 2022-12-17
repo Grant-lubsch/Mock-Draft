@@ -1,0 +1,33 @@
+body {
+  background-color: lightblue;
+  color: white;
+  width: 400px;
+  text-align: center;
+  border: 5px solid white;
+}
+
+h1 {
+
+}
+
+.draft-pick {
+  font-weight: bold;
+  font-size: 20px;
+  border: 3px dotted blue;
+  color: blue;
+}
+
+.draft-order {
+  background-color: blue;
+  font-weight: bold;
+  
+}
+
+.draft-analysis {
+  font-size: 30px;
+  background-color: navy;
+}
+
+ol {
+  border: 3px solid blue;
+}
